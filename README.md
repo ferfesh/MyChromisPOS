@@ -1,1 +1,1 @@
-# MyChroisPOS
+# MyChromisPOS
